@@ -1,7 +1,7 @@
 <h1>Laboratory Outputs for Computer Simulation</h1>
 
 <h2>Description</h2>
-This is a compilation of all outputs I produced as part of the coursework for my junior-year Computer Simulation Class. This includes both individual and group work.
+This is a compilation of all outputs I produced as part of the coursework for my junior-year Computer Simulation class. This includes both only individual work.
 
 <h2>Simulation Models Covered</h2>
 
