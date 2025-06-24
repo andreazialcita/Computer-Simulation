@@ -7,7 +7,7 @@ This is a compilation of all outputs I produced as part of the coursework for my
 
 - [<b>System Dynamics</b>](https://github.com/andreazialcita/Computer-Simulation/blob/main/%5BCSCI_115%5D_System_Dynamics.ipynb)
 - [<b>State-based</b>](https://github.com/andreazialcita/Computer-Simulation/blob/main/%5BCSCI_115%5D_State_Based.ipynb) (Finite State Automata)
-- <b>Agent-based</b>
+- [<b>Agent-based</b>](https://github.com/andreazialcita/Computer-Simulation/blob/main/%5BCSCI_115%5D_Agent_Based_Modelling.ipynb)
 - [<b>Markov Chains</b>](https://github.com/andreazialcita/Computer-Simulation/blob/main/%5BCSCI_115%5D_Markov_Chain_Applications.ipynb)
 
 <h2>Language Used</h2>
