@@ -5,7 +5,7 @@ This is a compilation of all outputs I produced as part of the coursework for my
 
 <h2>Simulation Models Covered</h2>
 
-- <b>System Dynamics</b>
+- [<b>System Dynamics</b>](https://github.com/andreazialcita/Computer-Simulation/blob/main/%5BCSCI_115%5D_System_Dynamics.ipynb)
 - <b>State-based</b> (Finite State Automata)
 - <b>Agent-based</b>
 - <b>Markov Chains</b>
